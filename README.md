@@ -84,7 +84,7 @@ The final Power BI dashboard provides:
 * **CSV datasets**
 ---
 ## Dashboard
-Dashboard.png
+Dashboard.png.png
 ---
 
 ## Conclusion
