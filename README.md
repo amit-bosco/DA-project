@@ -82,7 +82,9 @@ The final Power BI dashboard provides:
 * **Google colab**
 * **Power BI** (DAX, Data Modeling, Visualization)
 * **CSV datasets**
-
+---
+## Dashboard
+Dashboard.png
 ---
 
 ## Conclusion
