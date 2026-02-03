@@ -83,8 +83,6 @@ The final Power BI dashboard provides:
 * **Power BI** (DAX, Data Modeling, Visualization)
 * **CSV datasets**
 ---
-## Dashboard
-`Dashboard.png.png` - screenshot
 
 ## Conclusion
 
